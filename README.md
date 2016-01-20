@@ -5,6 +5,7 @@ Bot used to convert tex code into images so that equations and mathematical symb
 Requirements:
 discord.py
 python 3.5
+matplotlib
 
 1: clone the repository
 
