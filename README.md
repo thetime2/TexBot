@@ -14,5 +14,9 @@ matplotlib
 3: run:
 python3 main.py
 
+##Supported Symbols
+See here for a list of symbols that are supported:
+http://matplotlib.org/users/mathtext.html#mathtext-tutorial
+
 ##Contributing
 If you fork the repo and want your changes merged into the main branch then just submit a pull request and I'll merge it when I can.
